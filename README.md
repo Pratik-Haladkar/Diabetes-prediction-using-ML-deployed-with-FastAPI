@@ -47,4 +47,3 @@ Diabetes-prediction-using-ML-deployed-with-FastAPI/
 ├── README.md
 ├── models/
 │ └── diabetes_model.sav # Trained ML model
-
