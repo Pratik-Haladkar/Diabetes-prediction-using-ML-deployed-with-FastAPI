@@ -40,3 +40,11 @@ This project is suitable for understanding how ML models are integrated into bac
 
 ## 📂 Project Structure
 
+Diabetes-prediction-using-ML-deployed-with-FastAPI/
+├── ml_public_api_implementation.py # FastAPI server
+├── test_api.py # Client script to test the API
+├── requirements.txt # Project dependencies
+├── README.md
+├── models/
+│ ├── diabetes_model.sav # Trained ML model
+
