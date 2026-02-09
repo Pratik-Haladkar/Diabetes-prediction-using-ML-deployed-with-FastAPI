@@ -42,8 +42,8 @@ This project is suitable for understanding how ML models are integrated into bac
 
 Diabetes-prediction-using-ML-deployed-with-FastAPI/<div></div>
 ├── ml_public_api_implementation.py # FastAPI server<div></div>
-├── test_api.py # Client script to test the API
-├── requirements.txt # Project dependencies
-├── README.md
-├── models/
+├── test_api.py # Client script to test the API<div></div>
+├── requirements.txt # Project dependencies<div></div>
+├── README.md<div></div>
+├── models/<div></div>
 │ └── diabetes_model.sav # Trained ML model
